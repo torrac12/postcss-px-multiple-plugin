@@ -33,3 +33,27 @@ module.exports = {
     }
   }
 }
+
+```
+
+效果如下：
+```
+/* origin file */
+body {
+  width: 100%;
+  height: 20px;
+  margin: 10px;
+  font-size: 14px;
+}
+
+
+/* output file */
+body {
+  width: 100%;
+  height: 40px;
+  margin: 20px;
+  font-size: 28px;
+}
+
+```
+
