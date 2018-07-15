@@ -1,0 +1,23 @@
+{
+  "name": "postcss-multiple",
+  "description": "Postcss multiple px unit",
+  "version": "0.1.0",
+  "author": "torrac12 <aiyuai1987@163.com>",
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "mocha": "^5.2.0",
+    "postcss": "^6.0.23"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "keywords": [
+    "px-multiple",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.3"
+  }
+}
