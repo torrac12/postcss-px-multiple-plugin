@@ -1,7 +1,12 @@
 {
   "name": "postcss-px-multiple",
   "description": "Postcss multiple px unit",
-  "version": "0.1.3",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/torrac12/postcss-px-multiple-plugin.git"
+  },
+  "homepage": "https://github.com/torrac12/postcss-px-multiple-plugin.git",
   "author": "torrac12 <aiyuai1987@163.com>",
   "devDependencies": {
     "eslint": "^5.0.1",
