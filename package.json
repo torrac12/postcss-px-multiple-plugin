@@ -1,7 +1,7 @@
 {
   "name": "postcss-px-multiple",
   "description": "Postcss multiple px unit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "torrac12 <aiyuai1987@163.com>",
   "devDependencies": {
     "eslint": "^5.0.1",
