@@ -26,7 +26,7 @@ module.exports = {
         options: {
           ident: 'postcss',
           plugins: [
-            require('pxMultiple')({multiple: 2})
+            require('pxMultiple')({times: 2})
           ]
         }
       }]
